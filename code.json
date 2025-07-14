@@ -1,0 +1,70 @@
+{
+  "name": "mac-fc-secret-scanning",
+  "description": "This repo contains a gitleaks GHA workflow that scans for secrets.",
+  "longDescription": "This repo contains a gitleaks GHA workflow that scans for secrets.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/mac-fc-secret-scanning",
+  "projectURL": "",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "public",
+  "vcs": "git",
+  "laborHours": 0,
+  "reuseFrequency": {
+    "forks": 790
+  },
+  "platforms": [
+    "linux"
+  ],
+  "categories": [
+    "it-security"
+  ],
+  "softwareType": "standalone/backend",
+  "languages": [],
+  "maintenance": "contract",
+  "contractNumber": "47QTCA21D00AC",
+  "date": {
+    "created": "2024-11-24T16:38:00Z",
+    "lastModified": "",
+    "metaDataLastUpdated": ""
+  },
+  "tags": [
+    "security",
+    "secret-scanning",
+    "gitleaks"
+  ],
+  "contact": {
+    "email": "yonas@samtek.io",
+    "name": "Samtek"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/mac-fc-secret-scanning/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "tool",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "MAC-FC Secret Scanning"
+  ],
+  "systems": [],
+  "upstream": [],
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}
